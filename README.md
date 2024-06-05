@@ -1,1 +1,1 @@
-# Python-softex
+# Reconhecimento facial
